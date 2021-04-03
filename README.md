@@ -11,7 +11,8 @@ Falta implementar:
 - responsividade;
 - javascript e animações;
 - formulário .php;
-- otimização; e
+- otimização; 
+- favicon; e
 - SEO / Analytics.
-- 
+
 OBS: O "hover effect" na logo do header é ideia minha :) A intenção foi evitar 'banner blindness'.
